@@ -1,6 +1,6 @@
 <!-- GitHub Organization Profile README --><div align="center">
   <!-- Company Logo (Working Public URL) -->
-  <img src="https://github.com/Diploy-Space.png" width="130" alt="Diploy Space Logo" style="border-radius: 14px; margin-bottom: 10px;" />  <h1 style="font-size: 2.5rem; margin-top: 10px;">🚀 Diploy Space</h1>
+  <img src="https://raw.githubusercontent.com/Diploy-Space/diploy.github/refs/heads/main/IMG_20261105_102908.jpg" width="130" alt="Diploy Space Logo" style="border-radius: 14px; margin-bottom: 10px;" />  <h1 style="font-size: 2.5rem; margin-top: 10px;">🚀 Diploy Space</h1>
   <p style="font-size: 1.2rem; color: #586069; font-weight: 500; margin-bottom: 20px;">Building Digital Experiences. Engineering the Future.</p>  <!-- Professional Badges -->  <p>
     <img src="https://img.shields.io/badge/Focus-Software%20Development-155EEF?style=for-the-badge&logo=code&logoColor=white" alt="Focus" />
     <img src="https://img.shields.io/badge/Team-Engineering-00BFA6?style=for-the-badge&logo=people&logoColor=white" alt="Team" />
